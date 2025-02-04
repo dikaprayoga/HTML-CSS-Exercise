@@ -1,0 +1,32 @@
+body{
+  background-color: #addd;
+  font-family: tahoma;
+  font-size: 14px;
+  display: flex;
+}
+
+.tag1{
+  background-color: aquamarine;
+  border: solid;
+  margin: 14px;
+  padding: 10px;
+}
+
+.tag2{
+  background-color: pink;
+  border: solid;
+  margin: 10px;
+  padding: 10px;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+}
+
+.tag3{
+  background-color: red;
+  border: dashed;
+  margin: 10px;
+  padding: 10px;
+}
